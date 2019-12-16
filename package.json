@@ -30,7 +30,7 @@
   "author": "Cezar Luiz <cezarluiz.c@gmail.com>",
   "homepage": "http://cezarlz.github.io/react-cl-audio-player",
   "license": "MIT",
-  "repository": "git@github.com:cezarlz/react-cl-audio-player.git",
+  "repository": "git@github.com:dejanstrancar/react-cl-audio-player.git",
   "keywords": [
     "react-component",
     "audio",
